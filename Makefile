@@ -6,7 +6,7 @@ OBJ = ./*.o
 # variables
 COMPFLAGS=-Wall -Wextra -pedantic
 LINKFLAGS= 
-TARGET=test
+TARGET=chexdumb
 
 all:$(TARGET)
 
